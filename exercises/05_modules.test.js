@@ -1,5 +1,7 @@
 import * as Mathy from '../common/Mathy'
 // WRITE YOUR IMPORT STATEMENTS HERE
+import {sqrt as mySqrt, square as mySquare} from '../common/Mathy'
+import _ from 'lodash'
 
 test('can import Mathy', () => {
   // this one's already done! You're welcome :)
